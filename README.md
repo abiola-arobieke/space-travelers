@@ -26,7 +26,9 @@
 
 # 📖 [Space Travelers'] <a name="about-project"></a>
 
-**Space Travelers'** is a simple project to display books and its author.
+**Space Travelers'** is a web app that provides commercial and scientific space travel services. The application will allow users to book rockets and join selected space missions.
+
+.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -44,7 +46,7 @@
 
 - **Perform basic CRUD with React and Redux**
 - **Fetch Data from the API**
-- **Allow users to make a reservation and state their missions**
+- **Allow users to make a reservation and join their selected missions**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
