@@ -52,7 +52,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](Coming Soon)
+- Not available yet.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -98,14 +98,19 @@ Then, run the following command to start the app
     npm start
 ```
 
-## 👥 Author <a name="authors"></a>
+## 👥 Authors <a name="authors"></a>
 
 👤 **Abiola Arobieke**
-
 
 - GitHub: [@abiola-arobieke](https://github.com/abiola-arobieke)
 - Linkedin: [@abiola-arobieke](https://linkedin.com/in/abiola-arobieke)
 - Twitter: [@abiola_arobieke](https://twitter.com/abiola_arobieke)
+
+👤 **Carlos Igreda**
+
+- GitHub: [@CarlosIgreda](https://github.com/CarlosIgreda)
+- Twitter: [@carlosigreda](https://twitter.com/carlosigreda)
+- LinkedIn: [@carlosigreda](https://www.linkedin.com/in/carlosigreda/)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
