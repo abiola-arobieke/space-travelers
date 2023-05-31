@@ -1,8 +1,7 @@
-import RocketList from './RocketsList';
+import RocketList from './RocketList';
 
 const Rockets = () => (
   <>
-    <div>This is rocket page</div>
     <RocketList />
   </>
 );
