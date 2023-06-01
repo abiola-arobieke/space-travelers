@@ -1,6 +1,9 @@
 import { useSelector } from 'react-redux';
 import RocketItem from './RocketItem';
-import { addReservation, cancelReservation } from '../redux/rockets/rocketsSlice';
+import {
+  addReservation,
+  cancelReservation,
+} from '../redux/rockets/rocketsSlice';
 
 const RocketList = () => {
   const { rocketsItem } = useSelector((store) => store.rockets);
