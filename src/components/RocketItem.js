@@ -14,16 +14,16 @@ const RocketItem = ({ rocket, reservation, cancelReservation }) => {
   };
 
   return (
-    <div className="d-flex card">
-      <div className="md-4">
-        <div className="card-img">
+    <div className="ds-flex card-container">
+      <div className="mid-screen-4">
+        <div className="card-image">
           <img className="rocket-img" src={rocket.flickr_images[0]} alt="" />
         </div>
       </div>
-      <div className="md-8 card-details">
-        <h2>{rocket.name}</h2>
-        <p className="description">
-          {rocket.reserved ? <span className="pills">reserved</span> : ''}
+      <div className="mid-screen-8 card-details">
+        <h2 className="card-name">{rocket.name}</h2>
+        <p className="card-description">
+          {rocket.reserved ? <span className="pills-green">reserved</span> : ''}
           {rocket.description}
         </p>
         {!rocket.reserved ? (

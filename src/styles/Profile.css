@@ -3,13 +3,11 @@
   margin-block-start: 1em;
   margin-block-end: 1em;
   padding-inline-start: 0;
-  border-top: 1px solid #ccc;
-  border-left: 1px solid #ccc;
-  border-right: 1px solid #ccc;
-  border-radius: 2px;
 }
 
 .list-container > li {
+  border-left: 1px solid #ccc;
+  border-right: 1px solid #ccc;
   border-bottom: 1px solid #ccc;
   font-size: 1rem;
   font-weight: 400;
@@ -17,22 +15,31 @@
   text-transform: capitalize;
 }
 
+.list-container > li:first-child {
+  border-top: 1px solid #ccc;
+  border-radius: 2px;
+}
+
+.list-container > li:last-child {
+  border-radius: 2px;
+}
+
 .profile-title {
   font-weight: 500;
 }
 
-.d-flex {
+.ds-flex {
   display: flex;
 }
 
-.md-6 {
+.mid-screen-6 {
   width: 50%;
 }
 
-.mt-1 {
+.mar-t-1 {
   margin-top: 1rem;
 }
 
-.ms-1 {
+.mar-s-1 {
   margin-left: 1rem;
 }
