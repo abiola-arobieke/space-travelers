@@ -32,7 +32,7 @@ const rocketsSlice = createSlice({
     },
     cancelReservation: (state, action) => {
       const rocketId = action.payload;
-      state.rocketsItem = state.rocketsItem.map((rocket) => (
+      state.rocketsItem = state.rocketsItem?.map((rocket) => (
         rocket.id === rocketId ? { ...rocket, reserved: false } : { ...rocket }));
     },
   },
