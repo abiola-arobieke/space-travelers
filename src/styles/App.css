@@ -15,12 +15,6 @@ body {
   height: 50px;
 }
 
-.name-logo {
-  font-size: 1.7rem;
-  color: #000;
-  font-weight: 500;
-}
-
 .nav {
   display: flex;
   justify-content: space-between;
@@ -55,6 +49,13 @@ body {
   padding-right: 2rem;
 }
 
-.navlink:hover {
+.active {
   text-decoration: underline;
+}
+
+.name-logo {
+  font-size: 1.7rem;
+  color: #000;
+  font-weight: 500;
+  text-decoration: none;
 }

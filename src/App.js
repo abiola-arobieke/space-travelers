@@ -5,8 +5,8 @@ import './styles/App.css';
 import Rockets from './containers/Rockets';
 import Header from './components/Header';
 import Missions from './components/Missions';
-import Profile from './components/Profile';
 import { getRocketsItem } from './redux/rockets/rocketsSlice';
+import Profile from './components/Profile';
 
 function App() {
   const dispatch = useDispatch();
