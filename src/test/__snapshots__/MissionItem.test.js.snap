@@ -1,0 +1,39 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`MissionItem renders correctly 1`] = `
+<tr
+  className="row-cell"
+>
+  <td
+    className="mission-td mission-name"
+  >
+    Mission 1
+  </td>
+  <td
+    className="mission-td mission-description"
+  >
+    Mission description
+  </td>
+  <td
+    className="mission-td mission-member"
+  >
+    <button
+      className="btn btn-primary active-button"
+      type="button"
+    >
+      Active Member
+    </button>
+  </td>
+  <td
+    className="mission-td mission-join"
+  >
+    <button
+      className="btn btn-outline-danger leave-button"
+      onClick={[Function]}
+      type="button"
+    >
+      Leave Mission
+    </button>
+  </td>
+</tr>
+`;

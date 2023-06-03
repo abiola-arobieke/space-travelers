@@ -1,0 +1,42 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`RocketItem renders correctly 1`] = `
+<div
+  className="ds-flex card-container"
+>
+  <div
+    className="mid-screen-4"
+  >
+    <div
+      className="card-image"
+    >
+      <img
+        alt=""
+        className="rocket-img"
+        src="https://example.com/image.jpg"
+      />
+    </div>
+  </div>
+  <div
+    className="mid-screen-8 card-details"
+  >
+    <h2
+      className="card-name"
+    >
+      Falcon 9
+    </h2>
+    <p
+      className="card-description"
+    >
+      Sample description
+    </p>
+    <button
+      className="btn-add"
+      onClick={[Function]}
+      type="button"
+    >
+      Add Reservation
+    </button>
+  </div>
+</div>
+`;
