@@ -1,0 +1,104 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`MissionsList renders correctly 1`] = `
+<table
+  className="missions-table"
+>
+  <thead>
+    <tr>
+      <th
+        className="mission-th column-1"
+      >
+        Mission
+      </th>
+      <th
+        className="mission-th column-2"
+      >
+        Description
+      </th>
+      <th
+        className="mission-th column-3"
+      >
+        Status
+      </th>
+      <th
+        className="mission-th column-4"
+      >
+         
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr
+      className="row-cell"
+    >
+      <td
+        className="mission-td mission-name"
+      >
+        Mission 1
+      </td>
+      <td
+        className="mission-td mission-description"
+      >
+        Mission description 1
+      </td>
+      <td
+        className="mission-td mission-member"
+      >
+        <button
+          className="btn btn-secondary member-button"
+          type="button"
+        >
+          NOT A MEMBER
+        </button>
+      </td>
+      <td
+        className="mission-td mission-join"
+      >
+        <button
+          className="btn btn-outline-secondary join-button"
+          onClick={[Function]}
+          type="button"
+        >
+          Join Mission
+        </button>
+      </td>
+    </tr>
+    <tr
+      className="row-cell"
+    >
+      <td
+        className="mission-td mission-name"
+      >
+        Mission 2
+      </td>
+      <td
+        className="mission-td mission-description"
+      >
+        Mission description 2
+      </td>
+      <td
+        className="mission-td mission-member"
+      >
+        <button
+          className="btn btn-secondary member-button"
+          type="button"
+        >
+          NOT A MEMBER
+        </button>
+      </td>
+      <td
+        className="mission-td mission-join"
+      >
+        <button
+          className="btn btn-outline-secondary join-button"
+          onClick={[Function]}
+          type="button"
+        >
+          Join Mission
+        </button>
+      </td>
+    </tr>
+  </tbody>
+</table>
+`;

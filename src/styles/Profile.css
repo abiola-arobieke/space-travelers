@@ -1,0 +1,45 @@
+.list-container {
+  list-style-type: none;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  padding-inline-start: 0;
+}
+
+.list-container > li {
+  border-left: 1px solid #ccc;
+  border-right: 1px solid #ccc;
+  border-bottom: 1px solid #ccc;
+  font-size: 1rem;
+  font-weight: 400;
+  padding: 8px 12px 16px;
+  text-transform: capitalize;
+}
+
+.list-container > li:first-child {
+  border-top: 1px solid #ccc;
+  border-radius: 2px;
+}
+
+.list-container > li:last-child {
+  border-radius: 2px;
+}
+
+.profile-title {
+  font-weight: 500;
+}
+
+.ds-flex {
+  display: flex;
+}
+
+.mid-screen-6 {
+  width: 50%;
+}
+
+.mar-t-1 {
+  margin-top: 1rem;
+}
+
+.mar-s-1 {
+  margin-left: 1rem;
+}

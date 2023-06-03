@@ -1,0 +1,60 @@
+.missions-table {
+  border-collapse: collapse;
+  margin: 1.5rem auto;
+}
+
+.mission-th,
+.mission-td {
+  border: 1px solid #ccc;
+  padding: 8px;
+}
+
+.row-cell:nth-child(odd) {
+  background-color: #cccccc30;
+}
+
+.member-button {
+  font-size: 0.8rem;
+  padding: 0.1rem 0.2rem;
+}
+
+.join-button {
+  display: block;
+  margin: auto;
+}
+
+.column-1 {
+  width: 8rem;
+}
+
+.column-2 {
+  width: 53rem;
+}
+
+.column-3 {
+  width: 8.5rem;
+}
+
+.column-4 {
+  width: 9.5rem;
+}
+
+.mission-description {
+  font-size: 0.85rem;
+  font-weight: normal;
+}
+
+.mission-name {
+  vertical-align: top;
+}
+
+.active-button {
+  font-size: 0.8rem;
+  padding-top: 0.1rem;
+  padding-bottom: 0.1rem;
+}
+
+.mission-member,
+.mission-join {
+  text-align: center;
+}

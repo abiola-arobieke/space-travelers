@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Missions renders correctly 1`] = `
+<table
+  className="missions-table"
+>
+  <thead>
+    <tr>
+      <th
+        className="mission-th column-1"
+      >
+        Mission
+      </th>
+      <th
+        className="mission-th column-2"
+      >
+        Description
+      </th>
+      <th
+        className="mission-th column-3"
+      >
+        Status
+      </th>
+      <th
+        className="mission-th column-4"
+      >
+         
+      </th>
+    </tr>
+  </thead>
+  <tbody />
+</table>
+`;

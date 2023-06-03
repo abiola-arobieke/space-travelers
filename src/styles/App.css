@@ -1,0 +1,61 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-weight: bold;
+  text-decoration: none;
+  font-family: 'Montserrat', sans-serif;
+}
+
+body {
+  padding: 0.8rem 2rem;
+}
+
+.logo {
+  height: 50px;
+}
+
+.nav {
+  display: flex;
+  justify-content: space-between;
+  border-bottom: 1px solid #00000030;
+  padding-bottom: 1rem;
+}
+
+.name-logo-container {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.ul {
+  display: flex;
+  align-items: center;
+  list-style: none;
+  font-size: 0.9rem;
+}
+
+.li {
+  padding-right: 2rem;
+}
+
+.navlink {
+  color: rgb(65, 173, 223);
+  font-weight: 600;
+}
+
+.missions-navlink {
+  border-right: 1px solid #00000030;
+  padding-right: 2rem;
+}
+
+.active {
+  text-decoration: underline;
+}
+
+.name-logo {
+  font-size: 1.7rem;
+  color: #000;
+  font-weight: 600;
+  text-decoration: none;
+}

@@ -1,0 +1,87 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`RocketList renders correctly 1`] = `
+<div>
+  <div
+    className="ds-flex card-container"
+  >
+    <div
+      className="mid-screen-4"
+    >
+      <div
+        className="card-image"
+      >
+        <img
+          alt=""
+          className="rocket-img"
+          src="https://example.com/image1.jpg"
+        />
+      </div>
+    </div>
+    <div
+      className="mid-screen-8 card-details"
+    >
+      <h2
+        className="card-name"
+      >
+        Falcon 9
+      </h2>
+      <p
+        className="card-description"
+      >
+        Sample description 1
+      </p>
+      <button
+        className="btn-add"
+        onClick={[Function]}
+        type="button"
+      >
+        Add Reservation
+      </button>
+    </div>
+  </div>
+  <div
+    className="ds-flex card-container"
+  >
+    <div
+      className="mid-screen-4"
+    >
+      <div
+        className="card-image"
+      >
+        <img
+          alt=""
+          className="rocket-img"
+          src="https://example.com/image2.jpg"
+        />
+      </div>
+    </div>
+    <div
+      className="mid-screen-8 card-details"
+    >
+      <h2
+        className="card-name"
+      >
+        Falcon Heavy
+      </h2>
+      <p
+        className="card-description"
+      >
+        <span
+          className="pills-green"
+        >
+          reserved
+        </span>
+        Sample description 2
+      </p>
+      <button
+        className="btn-cancel"
+        onClick={[Function]}
+        type="button"
+      >
+        Cancel Reservation
+      </button>
+    </div>
+  </div>
+</div>
+`;
