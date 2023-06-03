@@ -10,13 +10,11 @@
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
+ - [Prerequisites](#prerequisites)
   - [Setup](#setup)
-  - [Prerequisites](#prerequisites)
   - [Install](#install)
   - [Usage](#usage)
-  - [Deployment](#triangular_flag_on_post-deployment)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
@@ -47,12 +45,6 @@
 - **Perform basic CRUD with React and Redux**
 - **Fetch Data from the API**
 - **Allow users to make a reservation and join their selected missions**
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-- Not available yet.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -87,12 +79,15 @@ Change directory to the project folder
 ```sh
   cd space-travelers
 ```
+### Install
 
 On your code editor terminal, run the following command to install node modules
 
 ```sh
   npm install
 ```
+### Usage
+
 Then, run the following command to start the app
 ```sh
     npm start
@@ -129,7 +124,7 @@ Then, run the following command to start the app
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/abiola-arobieke/space-travelers.git/issues).
+Feel free to check the [issues page](https://github.com/abiola-arobieke/space-travelers/issues/new).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
