@@ -42,6 +42,7 @@ body {
 .navlink {
   color: rgb(65, 173, 223);
   font-weight: 600;
+  text-decoration: none;
 }
 
 .missions-navlink {
