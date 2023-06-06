@@ -26,8 +26,6 @@
 
 **Space Travelers'** is a web app that provides commercial and scientific space travel services. The application will allow users to book rockets and join selected space missions.
 
-.
-
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
