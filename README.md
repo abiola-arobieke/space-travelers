@@ -11,6 +11,7 @@
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
 - [💻 Getting Started](#getting-started)
+- [🚀 Live Demo](#live-demo)
  - [Prerequisites](#prerequisites)
   - [Setup](#setup)
   - [Install](#install)
@@ -45,6 +46,10 @@
 - **Allow users to make a reservation and join their selected missions**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🚀 Live Demo <a name="live-demo"></a>
+
+- [Live site](https://space-travelers-com.onrender.com/)
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
